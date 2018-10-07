@@ -6,3 +6,5 @@ Made in Node.JS
 5. Guess a letter and hit enter. 
 6. If the letter is correct the letter will appear in the hidden word otherwise guess again!
 
+
+![alt text]("./screen-shot.gif")
