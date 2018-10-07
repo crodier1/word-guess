@@ -7,4 +7,4 @@ Made in Node.JS
 6. If the letter is correct the letter will appear in the hidden word otherwise guess again!
 
 
-![alt text]("./screen-shot.gif")
+![alt text](screen-shot.gif)
