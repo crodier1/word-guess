@@ -19,6 +19,7 @@ wordGuess = () => {
         sample.gameRules(mysteryWord, hidden, userGuess);
 
         /*
+        //game rules code for reference
         for(let i=0; i<mysteryWord.length; i++){
             if(hidden[i] === res.guess.toLowerCase()){
                 mysteryWord.splice(i,1,res.guess.toLowerCase()); 
