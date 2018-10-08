@@ -10,7 +10,7 @@ wordGuess = () => {
     inquirer.prompt([
         {
             name: "guess",            
-            message: mysteryWord.join("") + "\n" + "Guess a letter",
+            message: mysteryWord.join("") + "\n" + "Guess a letter: ",
             type: "input"         
         }
     ]).then((res) => {
